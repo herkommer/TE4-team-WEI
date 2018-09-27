@@ -8,7 +8,8 @@ body{
 .content{
     color:white;
     display: block;
-    margin-top: 30%;
+    margin-top: 20%;
+    margin-bottom: 10%;
     margin-left: 10%;
 }
 
@@ -19,6 +20,13 @@ body{
 
 .content p{
     font-size: 150%;
+}
+
+.content-page{
+    background-color: rgba(00, 51, 102, 0.8);
+    width: 50%;
+    margin: 0 auto;
+    height: 100%;
 }
 
 footer {
