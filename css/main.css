@@ -22,6 +22,7 @@ body{
 }
 
 footer {
+    margin-top:50%;
     margin: auto;
     text-align: center;
     font-weight: bold;
@@ -49,6 +50,12 @@ footer {
     margin: auto;
     color:#2e9afe;
     margin-bottom: 10%;
+}
+
+#separator {
+    margin-left: 10%; 
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 #topbox {
