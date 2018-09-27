@@ -26,12 +26,29 @@ footer {
     text-align: center;
     font-weight: bold;
     font-size: 1.1em;
-    padding: 10px;
+    padding: 20px;
     color:white;
+    background-color:black;
+}
+
+.name {
+    text-decoration: none;
+    margin: auto;
+    color:#2e9afe;
+    margin-bottom: 10%;
+    margin-left: 10%;
 }
 
 .namelist {
+    margin-left: -10%;
+    margin-bottom: 10%;
+}
+
+#erik {
     text-decoration: none;
+    margin: auto;
+    color:#2e9afe;
+    margin-bottom: 10%;
 }
 
 #topbox {
